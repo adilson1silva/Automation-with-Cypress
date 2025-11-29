@@ -5,6 +5,8 @@ Criar 3 request diferente
 3º - GET - Ver se o pedido está OK
 */
 
+
+
 /// <reference types = "Cypress"/>
 
 
@@ -69,5 +71,3 @@ describe('API testing', () => {
         })
     });
 });
-
-
