@@ -1,6 +1,5 @@
 /// <reference types= 'cypress'/>
 
-
 describe('login function test', () => {
 
     it('you must perform the test with the wrong login', () => {
